@@ -1,1 +1,1 @@
-export const val = "thing";
+export const Ctx = createContext();
